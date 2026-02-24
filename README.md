@@ -6,3 +6,7 @@ Acredito que o desenvolvimento de software e a segurança devem caminhar juntos.
 ### 🔍 No que estou focado agora:
 - 📚 Aprendendo fundamentos de **Redes de Computadores** e **Protocolos**.
 - 🐍 Praticando automação com **Python**.
+## 📫 Contato
+- LinkedIn: (linkedin.com/in/pedro-henrique0311)
+- GitHub: github.com/pedromartoniHQ
+- celular:11992847432
