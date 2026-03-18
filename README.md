@@ -1,12 +1,22 @@
-# Olá, eu sou o [pedro henrique]! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, iniciando minha trilha de especialização em **Cibersegurança**. 
-Acredito que o desenvolvimento de software e a segurança devem caminhar juntos.
+eu sou o Pedro Henrique! 👾
 
-### 🔍 No que estou focado agora:
-- 📚 Aprendendo fundamentos de **Redes de Computadores** e **Protocolos**.
-- 🐍 Praticando automação com **Python**.
-## 📫 Contato
-- LinkedIn: (linkedin.com/in/pedro-henrique0311)
-- GitHub: github.com/pedromartoniHQ
-- celular:11992847432
+🧠 Sobre mim
+Tô no 3º bimestre da faculdade de Análise e Desenvolvimento de Sistemas e já comecei a trilhar meu caminho em Cibersegurança. Acredito que pra proteger sistemas, você precisa primeiro entender como construí-los — e é exatamente isso que tô fazendo.
+Curioso por natureza, gosto de ir fundo nos fundamentos: não basta saber que funciona, quero saber por que funciona.
+
+🎯 O que estou estudando agora
+
+🐍 Python — automação, scripts e futuramente ferramentas de segurança
+🌐 Redes de Computadores — protocolos, topologias, comunicação entre sistemas
+🖥️ Sistemas Operacionais — como o SO gerencia recursos e processos
+🛡️ SQL Injection — entendendo vulnerabilidades para aprender a defendê-las
+📡 Protocolos — TCP/IP, HTTP, DNS e como os dados trafegam na rede
+
+
+🚀 Objetivos
+
+Consolidar minha base técnica em redes e programação
+Aprofundar em pentest e segurança ofensiva
+Contribuir com projetos open source na área de segurança
+Conquistar minhas primeiras certificações (CompTIA Security+, eJPT...)
