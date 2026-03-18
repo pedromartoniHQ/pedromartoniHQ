@@ -20,3 +20,7 @@ Consolidar minha base técnica em redes e programação
 Aprofundar em pentest e segurança ofensiva
 Contribuir com projetos open source na área de segurança
 Conquistar minhas primeiras certificações (CompTIA Security+, eJPT...)
+
+📫 Onde me encontrar
+
+https://linkedin.com/in/pedro-henrique0311
