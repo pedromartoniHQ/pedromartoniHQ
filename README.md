@@ -1,7 +1,7 @@
 <h1 align="center">Fala, eu sou o Pedro Henrique! 👾</h1>
 
 <p align="center">
-  <em>Estudante de ADS · Explorando o mundo da Cibersegurança · Apaixonado por entender como as coisas funcionam (e como quebrar elas com ética 😄)</em>
+  <em>Estudante de ADS · Explorando o mundo da Cibersegurança · Apaixonado por entender como as coisas funcionam </em>
 </p>
 
 ---
