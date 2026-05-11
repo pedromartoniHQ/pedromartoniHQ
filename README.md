@@ -12,7 +12,7 @@
 
 ---
 
-## $ whoami
+## pedro henrique
 
 Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNICID (Cruzeiro do Sul), atualmente no **3º Bimestre**.
 
