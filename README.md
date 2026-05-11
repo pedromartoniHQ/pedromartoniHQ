@@ -24,9 +24,9 @@ Meu foco é transformar teoria em prática — estudando cibersegurança, redes 
 
 ```python
 areas = {
-    "Cibersegurança": ["Pentest", "CTF", "Análise de vulnerabilidades"],
-    "Redes":          ["TCP/IP", "Wireshark", "Subnetting", "Protocolos"],
-    "Python":         ["Scripts", "Automações", "Bibliotecas", "Scapy"],
+    "Cibersegurança": ["linux/Windows", "Análise de vulnerabilidades"],
+    "Redes":          ["TCP/IP", "fundamentos de rede""Protocolos"],
+    "Python":         ["Scripts", "Automações", "Bibliotecas"],
 }
 ```
 
@@ -38,7 +38,6 @@ areas = {
 |------------------------|-------|
 | Python                 | ██████░░░░ Intermediário |
 | Redes (TCP/IP)         | █████░░░░░ basico |
-| Wireshark              | ████░░░░░░ aprendendo   |
 | Nmap                   | ████░░░░░░ basico   |
 | Linux (Kali/Ubuntu)    | ████░░░░░░ aprendendo   |
 | Git & GitHub           | ███░░░░░░░ Aprendendo    |
@@ -51,10 +50,10 @@ areas = {
 |-------------|-----------|
 | `cyber-fundamentos` | Labs, CTFs e anotações de cibersegurança |
 | `python-labs` | Scripts e exercícios com bibliotecas Python |
-| `redes-na-pratica` | Topologias, Wireshark e análise de protocolos |
+| `redes-na-pratica` | Topologias, e análise de protocolos |
 | `ads-unicid` | Projetos e trabalhos do curso ADS |
 | `ferramentas-sec` | Ferramentas de segurança desenvolvidas por mim |
-| `estudos-certificacoes` | Roadmap e materiais para certificações |
+
 
 ---
 
@@ -62,7 +61,8 @@ areas = {
 
 - [x] Fundamentos de redes e TCP/IP
 - [x] Python básico e bibliotecas
-
+- [x] linux e Windows
+- [x] logica de programaçao
 
 
 
