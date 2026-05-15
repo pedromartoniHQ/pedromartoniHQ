@@ -60,7 +60,7 @@ areas = {
 ## 🎯 Roadmap
 
 - [x] Fundamentos de redes e TCP/IP
-- [x] Python básico e bibliotecas
+- [x] Python Intermediário e bibliotecas
 - [x] linux e Windows
 - [x] logica de programaçao
 
