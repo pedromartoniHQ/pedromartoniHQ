@@ -74,7 +74,7 @@ areas = {
 
 - 🎓 Instituição: UNICID · Cruzeiro do Sul
 - 📍 São Paulo, SP
-- 💼 LinkedIn: [seu-linkedin](linkedin.com/in/pedro-henrique0311)
+- 💼 LinkedIn:(linkedin.com/in/pedro-henrique0311)
 
 
 <div align="center">
