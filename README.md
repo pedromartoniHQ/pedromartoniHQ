@@ -4,7 +4,7 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║           ESTUDANTE DE ADS · UNICID                  ║
-║           Cruzeiro do Sul · 3º Bimestre              ║
+║           Cruzeiro do Sul · 4º Bimestre              ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -14,9 +14,8 @@
 
 ## pedro henrique
 
-Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNICID (Cruzeiro do Sul), atualmente no **3º Bimestre**.
-
-Meu foco é transformar teoria em prática — estudando cibersegurança, redes e Python com o objetivo de fortalecer meu conhecimento técnico e construir experiência real na área.
+Estudante do último período de Análise e Desenvolvimento de Sistemas (ADS), com foco direcionado a Segurança da Informação, Administração de Sistemas e Infraestrutura de TI.
+Minha trajetória acadêmica e técnica é voltada para a compreensão profunda de ambientes computacionais, redes e mitigação de vulnerabilidades. Atuo em laboratórios práticos e simulações de cenários reais, desenvolvendo competências em segurança ofensiva e defensiva, automação e arquitetura de sistemas corporativos
 
 ---
 
