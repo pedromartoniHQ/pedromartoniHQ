@@ -43,16 +43,6 @@ areas = {
 
 ---
 
-## 📁 Repositórios
-
-| Repositório | Descrição |
-|-------------|-----------|
-| `cyber-fundamentos` | Labs, CTFs e anotações de cibersegurança |
-| `python-labs` | Scripts e exercícios com bibliotecas Python |
-| `redes-na-pratica` | Topologias, e análise de protocolos |
-| `ads-unicid` | Projetos e trabalhos do curso ADS |
-| `ferramentas-sec` | Ferramentas de segurança desenvolvidas por mim |
-
 
 ---
 
